@@ -1,0 +1,122 @@
+h1,h2,h3{
+    text-indent: 300px;
+}
+.first{
+    text-indent: 300px;
+}
+.f1{
+    font-family: Times;
+
+    width:800px ;
+    margin-top: 30px;
+    margin-left: 270px;
+    word-spacing: 2px;
+}
+
+.item{
+   
+    margin-right: 80px;
+    margin-left: 250px;
+  }
+  .item2{
+    margin-left: 450px;
+  }
+.list{
+    margin-left: 250px;
+}
+#big_images{
+   margin-left: 250px;
+}
+
+.note{
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 70px;
+    width: 900px;
+    background-color: rgba(244, 234, 220, 0.981);
+}
+.formula1{
+    color: rgb(55, 13, 221);
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 270px;
+    width: 900px;
+    border: 1px solid black;
+}
+
+.formula2{
+    color: rgb(55, 13, 221);
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 120px;
+    width: 900px;
+    border: 1px solid black;
+}
+
+
+.formula3{
+    color: rgb(55, 13, 221);
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 400px;
+    width: 900px;
+    border: 1px solid black;
+}
+.short_note{
+    color: rgb(55, 13, 221);
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 100px;
+    width: 900px;
+    border: 1px solid black;
+}
+
+.role{
+    
+        margin-left: 250px;
+        height: 2px;
+        width: 900px;
+}
+
+#tab{
+   margin-left: 450px;
+}
+
+.rect{
+    
+        color: rgb(55, 13, 221);
+        font-size: large;
+        margin-left: 250px;
+        margin-right: 250px;
+        height: 500px;
+        width: 900px;
+        border: 1px solid black;
+     
+}
+
+#big{
+    color: rgb(55, 13, 221);
+        font-size: large;
+        margin-left: 250px;
+        margin-right: 250px;
+        height: 700px;
+        width: 900px;
+        border: 1px solid black;
+}
+
+pre{
+    
+    margin-left: 150px;
+    font-family: Times;
+    word-spacing: 2px;
+}
+#black{
+    margin-left: 150px;
+    word-spacing: 4px;
+    font-weight: bolder;
+}
