@@ -1,0 +1,17 @@
+
+
+div{
+   
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 50px;
+    font-size: medium;
+    font-weight: 500;
+
+    border-radius: 8px;
+    color: orange;
+    background-color: rgb(240, 35, 134);
+}
